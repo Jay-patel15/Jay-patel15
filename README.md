@@ -200,6 +200,7 @@ Owned data validation workflows for **"Second Brain,"** an AI product, ensuring 
 
 ---
 
+<!--
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -214,7 +215,9 @@ Owned data validation workflows for **"Second Brain,"** an AI product, ensuring 
 </div>
 
 ---
+-->
 
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -224,6 +227,7 @@ Owned data validation workflows for **"Second Brain,"** an AI product, ensuring 
 </div>
 
 ---
+-->
 
 ## 📈 Contribution Activity
 
