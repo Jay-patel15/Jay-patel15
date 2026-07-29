@@ -239,14 +239,14 @@ Owned data validation workflows for **"Second Brain,"** an AI product, ensuring 
 
 ---
 
-## 🐍 Contribution Snake
+<!--## 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Jay-patel15/Jay-patel15/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
+-->
 ---
 
 ## 🎯 Current Focus
