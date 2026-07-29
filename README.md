@@ -50,9 +50,9 @@ focus:
 philosophy: "Data you can't trust is worse than no data at all."
 ```
 
-I'm a Data Analyst with hands-on experience managing **10,000+ record pipelines at 99% accuracy** and validating complex datasets for production AI products. My background in AI Quality Assurance gives me a rare edge — I don't just analyze data, I know how to interrogate it for schema mismatches, null propagation, and silent failures before they reach a dashboard or a model.
+I'm a Data Analyst with hands-on experience managing 10,000+ record pipelines at 99% accuracy and validating complex datasets for production AI products. My background in AI Quality Assurance gives me a rare edge — I don't just analyze data, I know how to interrogate it for schema mismatches, null propagation, and silent failures before they reach a dashboard or a model.
 
-I hold a **B.E. in Artificial Intelligence & Data Science**, and my work blends analytical rigor (Python, SQL, EDA, statistical validation) with the ability to communicate findings clearly through **Power BI, Tableau, and Excel** — for both technical and non-technical stakeholders.
+I hold a B.E. in Artificial Intelligence & Data Science, and my work blends analytical rigor (Python, SQL, EDA, statistical validation) with the ability to communicate findings clearly through Power BI, Tableau, and Excel — for both technical and non-technical stakeholders.
 
 <div align="center">
 
@@ -80,7 +80,8 @@ I hold a **B.E. in Artificial Intelligence & Data Science**, and my work blends 
 <img src="https://img.shields.io/badge/Regex-A78BFA?style=flat-square&labelColor=1a1a2e"/>
 
 ### BI & Visualization
-<img src="https://skillicons.dev/icons?i=powerbi,tableau&theme=dark"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=1a1a2e"/>
 
 ### Databases & Tooling
