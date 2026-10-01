@@ -41,7 +41,7 @@
 
 ```yaml
 name: "Jay Patel"
-role: "Data Analyst | Python & SQL | BI & Data Visualization"
+role: "Data Analyst | Python & SQL | BI & Data Visualization | Developer"
 focus:
   - Processing and visualizing data at scale with Python, SQL, and BI tools
   - Building and validating data pipelines for production AI products
